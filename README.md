@@ -12,6 +12,7 @@
 |Practicum/advancedPython|файлы блокнотов Jupyter с решениями практических заданий курса "Продвинутый Питон"|
 |Practicum/LinearRegression|Курсовая работа "Расчет данных по энергопотреблению": блокнот Jupyter с решением|
 | |результат в виде сжатого CSV-файла (submission.7z)|
+|Practicum/Classification_Ensembles|Курсовая работа "Страховой скоринг.Финальное решение": блокнот Jupyter с решением и CSV-результат|
 
 
 
